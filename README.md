@@ -1,1 +1,2 @@
-# lab-devops-infra-grupo20
+# devopslab-infra
+Terraform - Google Cloud
